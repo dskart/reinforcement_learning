@@ -1,0 +1,9 @@
+# PYTHON
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+#VSCODE
+.vscode/*
+*.code-workspace
